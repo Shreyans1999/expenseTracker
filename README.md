@@ -22,7 +22,7 @@ Expense Tracker is a web application designed to help users manage their income 
 
 ## Demo
 
-You can see a live demo of the app here ======> https://expense-client-pi.vercel.app/
+You can see a live demo of the app here ======> https://expensetracker-1-op1b.onrender.com/
 
 ## Technologies Used
 
@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AnandaSriKaushalB/Expense-Tracker.git
+    git clone https://github.com/Shreyans1999/expenseTracker.git
     cd Expense-tracker
     ```
 
